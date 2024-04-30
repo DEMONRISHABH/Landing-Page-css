@@ -1,3 +1,3 @@
 # Landing Page
 
-🍁 **Example of a landing page made using Javascript**
+🍁 **Example of a landing page made using CSS**
